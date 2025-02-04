@@ -11,3 +11,4 @@ Lista de repositorios organizados por asignaturas:
   - [Auditoría, Calidad y fiabilidad](https://github.com/MarioInf-Master-CompuerScience-UCM/Auditoria_Calidad_Fiabilidad)
   - [Computación de altas prestaciones](https://github.com/MarioInf-Master-CompuerScience-UCM/ComputacionAltasPrestaciones)
   - [Gestión de los datos y de la información](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_datosInformacion)
+  - [Gestión de proyectos software](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_proyectosSoftware)
