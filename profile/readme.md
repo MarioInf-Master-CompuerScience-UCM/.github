@@ -1,4 +1,4 @@
-# Máster en Ingeniería Informática - Universidad COmplutense de Madrid (UCM)
+# Máster en Ingeniería Informática - Universidad Complutense de Madrid (UCM)
 
 Enlaces relevantes:
 
@@ -12,3 +12,5 @@ Lista de repositorios organizados por asignaturas:
   - [Computación de altas prestaciones](https://github.com/MarioInf-Master-CompuerScience-UCM/ComputacionAltasPrestaciones)
   - [Gestión de los datos y de la información](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_datosInformacion)
   - [Gestión de proyectos software](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_proyectosSoftware)
+- Curso 1, cuatrimestre 2:
+  - [Gestión de empresas de base tecnológica](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_empresasTecnologicas)
