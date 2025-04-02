@@ -19,7 +19,7 @@ Lista de repositorios organizados por asignaturas:
   - [Gestión de empresas de base tecnológica y sistemas informáticos](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_empresasTecnologicas)
   - [Gráficos por computador](https://github.com/MarioInf-Master-CompuerScience-UCM/GraficosComputador)
   - [Desarrollo de aplicaciones y servicios inteligentes](https://github.com/MarioInf-Master-CompuerScience-UCM/Desarrollo-de-aplicaciones-y-servicios-inteligentes)
-  - X
+  - [Sistemas empotrados distribuidos](https://github.com/MarioInf-Master-CompuerScience-UCM/Sistemas-empotrados-distribuidos?tab=readme-ov-file)
   - X
 - Curso 2, cuatrimestre 1:
   - X
