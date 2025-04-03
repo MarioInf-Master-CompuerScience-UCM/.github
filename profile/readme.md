@@ -10,17 +10,17 @@ Enlaces relevantes:
 Lista de repositorios organizados por asignaturas:
 
 - Curso 1, cuatrimestre 1:
-  - [Redes de nueva generación e internet](https://github.com/MarioInf-Master-CompuerScience-UCM/Redes-De-Nueva-Generacion)
-  - [Auditoría, Calidad y fiabilidad informáticas](https://github.com/MarioInf-Master-CompuerScience-UCM/Auditoria_Calidad_Fiabilidad)
-  - [Computación de altas prestaciones](https://github.com/MarioInf-Master-CompuerScience-UCM/ComputacionAltasPrestaciones)
-  - [Sistemas de gestión de datos y de la información](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_datosInformacion)
-  - [Dirección y gestión de proyectos software](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_proyectosSoftware)
+  - [Redes de nueva generación e internet (RNG)](https://github.com/MarioInf-Master-CompuerScience-UCM/Redes-De-Nueva-Generacion)
+  - [Auditoría, Calidad y fiabilidad informáticas (ACFI)](https://github.com/MarioInf-Master-CompuerScience-UCM/Auditoria_Calidad_Fiabilidad)
+  - [Computación de altas prestaciones (CAP)](https://github.com/MarioInf-Master-CompuerScience-UCM/ComputacionAltasPrestaciones)
+  - [Sistemas de gestión de datos y de la información (SGDI)](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_datosInformacion)
+  - [Dirección y gestión de proyectos software (DGP)](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_proyectosSoftware)
 - Curso 1, cuatrimestre 2:
-  - [Gestión de empresas de base tecnológica y sistemas informáticos](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_empresasTecnologicas)
-  - [Gráficos por computador](https://github.com/MarioInf-Master-CompuerScience-UCM/GraficosComputador)
-  - [Desarrollo de aplicaciones y servicios inteligentes](https://github.com/MarioInf-Master-CompuerScience-UCM/Desarrollo-de-aplicaciones-y-servicios-inteligentes)
-  - [Sistemas empotrados distribuidos](https://github.com/MarioInf-Master-CompuerScience-UCM/Sistemas-empotrados-distribuidos?tab=readme-ov-file)
-  - X
+  - [Gestión de empresas de base tecnológica y sistemas informáticos (EBT)](https://github.com/MarioInf-Master-CompuerScience-UCM/Gestion_empresasTecnologicas)
+  - [Gráficos por computador (GC)](https://github.com/MarioInf-Master-CompuerScience-UCM/GraficosComputador)
+  - [Desarrollo de aplicaciones y servicios inteligentes (DASI)](https://github.com/MarioInf-Master-CompuerScience-UCM/Desarrollo-de-aplicaciones-y-servicios-inteligentes)
+  - [Sistemas empotrados distribuidos (SED)](https://github.com/MarioInf-Master-CompuerScience-UCM/Sistemas-empotrados-distribuidos?tab=readme-ov-file)
+  - [Tecnologías multimedia e interacción (TMI)](https://github.com/MarioInf-Master-CompuerScience-UCM/Tecnologias-multimedia-e-interaccion)
 - Curso 2, cuatrimestre 1:
   - X
   - X
