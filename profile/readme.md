@@ -24,7 +24,7 @@ Lista de repositorios organizados por asignaturas:
 - Curso 2, cuatrimestre 1:
   - X
   - X
-  - X
+  - [Optimización (OPTI)](https://github.com/MarioInf-Master-CompuerScience-UCM/Optimizacion)
 - Trabajo Final de Máster:
   - Memoria: X
   - Proyecto: [Alveo u200 - computación paralela](https://github.com/MarioInf-Master-CompuerScience-UCM/TFM_u200_parallelComputation)
