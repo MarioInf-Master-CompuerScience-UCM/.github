@@ -26,6 +26,6 @@ Lista de repositorios organizados por asignaturas:
   - X
   - [Optimización (OPTI)](https://github.com/MarioInf-Master-CompuerScience-UCM/Optimizacion)
 - Trabajo Final de Máster:
-  - Memoria: X
-  - Proyecto: [Alveo u200 - computación paralela](https://github.com/MarioInf-Master-CompuerScience-UCM/TFM_u200_parallelComputation)
+  - Memoria: [TFM MEMORIA - Alveo U200, computación paralela](https://github.com/MarioInf-Master-CompuerScience-UCM/TFM-MEMORY_u200_parallelComputation)
+  - Proyecto: [TFM PROYECTO - Alveo U200, computación paralela](https://github.com/MarioInf-Master-CompuerScience-UCM/TFM-PROJECT_u200_parallelComputation)
   - Otros: [Get Moving With Alveo](https://github.com/MarioInf-Master-CompuerScience-UCM/Get_Moving_With_Alveo), [Vivado - tutoriales y ejemplos](https://github.com/MarioInf-Master-CompuerScience-UCM/Vivado_tutorialsAndExamples)
