@@ -22,7 +22,7 @@ Lista de repositorios organizados por asignaturas:
   - [Sistemas empotrados distribuidos (SED)](https://github.com/MarioInf-Master-CompuerScience-UCM/Sistemas-empotrados-distribuidos?tab=readme-ov-file)
   - [Tecnologías multimedia e interacción (TMI)](https://github.com/MarioInf-Master-CompuerScience-UCM/Tecnologias-multimedia-e-interaccion)
 - Curso 2, cuatrimestre 1:
-  - X
+  - [Arquitectura del nodo IoT (ANIOT)](https://github.com/MarioInf-Master-CompuerScience-UCM/Arquitectura-de-nodo-IoT)
   - X
   - [Optimización (OPTI)](https://github.com/MarioInf-Master-CompuerScience-UCM/Optimizacion)
 - Trabajo Final de Máster:
